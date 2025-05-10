@@ -1,0 +1,22 @@
+{
+    "name": "zuzsso/ArduinoSerialToolkit",    
+    "description": "Common functionality used in Arduino-compatible MCUs",
+    "keywords": "serial",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/username/hello-world.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Nicky Santamaria",
+        "email": "ndsans@gmail.com" 
+      }      
+    ],
+    "license": "GPL",    
+    "dependencies": {    
+    },
+    "frameworks": "*",
+    "platforms": "espressif32"
+  }
