@@ -1,7 +1,5 @@
 #include <Arduino.h>
-
-#ifndef __ZS_SERIAL_PORT_TOOLKIT__
-#define __ZS_SERIAL_PORT_TOOLKIT__
+#include <zs_serial_port_utils.h>
 
 namespace ZS
 {
@@ -13,7 +11,9 @@ namespace ZS
          Serial.println("!!! RTE: " + s);
          while (true)
          {
-            // Yes, infinite loop.
+            // Yes, infinite loop. The other option would be tor
+            // throw a runtime exception, but that would cause
+            // the MCU to restart continuously
          }
       }
       void setupSerialPort(unsigned long baudRate)
@@ -58,7 +58,4 @@ namespace ZS
          }
       }
    }
-
 }
-
-#endif

@@ -1,7 +1,11 @@
 {
   "name": "ZSArduinoSerialToolkit",
   "description": "Common functionality used in Arduino-compatible MCUs",
-  "keywords": "serial",
+  "version": "2.2.0",
+  "keywords": [
+    "serial",
+    "arduino"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/zuzsso/ZSArduinoSerialToolkit.git"
