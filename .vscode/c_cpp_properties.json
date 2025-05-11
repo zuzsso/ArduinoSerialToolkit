@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/home/nicky/Projects/dev_dynabox/ArduinoSerialToolkit/include",
-                "/home/nicky/Projects/dev_dynabox/ArduinoSerialToolkit/src",
+                "/home/nicky/Projects/dev_dynabox/ZSArduinoSerialToolkit/include",
+                "/home/nicky/Projects/dev_dynabox/ZSArduinoSerialToolkit/src",
                 "/home/nicky/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "/home/nicky/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "/home/nicky/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -244,8 +244,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/home/nicky/Projects/dev_dynabox/ArduinoSerialToolkit/include",
-                    "/home/nicky/Projects/dev_dynabox/ArduinoSerialToolkit/src",
+                    "/home/nicky/Projects/dev_dynabox/ZSArduinoSerialToolkit/include",
+                    "/home/nicky/Projects/dev_dynabox/ZSArduinoSerialToolkit/src",
                     "/home/nicky/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "/home/nicky/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "/home/nicky/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
